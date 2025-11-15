@@ -170,4 +170,4 @@ Cette analyse démontre que:
 
 **Contact:** [jeremiesofty24@gmail.com]  
 **GitHub:** [https://github.com/Softwinnerr/]  
-**LinkedIn:** [Ton LinkedIn]
+**LinkedIn:** [www.linkedin.com/in/jeremie-konan]
