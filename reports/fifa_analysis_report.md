@@ -33,7 +33,7 @@ Ce projet analyse un dataset de plus de 19,000 joueurs de football professionnel
 
 ---
 
-## 🔬 Méthodologie
+## Méthodologie
 
 ### Dataset
 - Source: FIFA 22 Male Players
