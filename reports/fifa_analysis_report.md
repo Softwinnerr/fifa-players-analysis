@@ -168,6 +168,6 @@ Cette analyse démontre que:
 
 ---
 
-**Contact:** [Ton email]  
-**GitHub:** [Ton GitHub]  
+**Contact:** [jeremiesofty24@gmail.com]  
+**GitHub:** [https://github.com/Softwinnerr/]  
 **LinkedIn:** [Ton LinkedIn]
