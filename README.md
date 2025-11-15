@@ -97,8 +97,8 @@ Le rapport complet est disponible dans [`reports/fifa_analysis_report.md`](repor
 ## 👤 Auteur
 
 **Jeremie Konan**
-- GitHub: [@ton-username](https://github.com/Softwinnerr)
-- LinkedIn: [Ton LinkedIn](https://linkedin.com/in/jeremie-konan)
+- GitHub: (https://github.com/Softwinnerr)
+- LinkedIn:(https://linkedin.com/in/jeremie-konan)
 - Email: jeremiesofty24@gmail.com
 
 
