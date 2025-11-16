@@ -86,15 +86,15 @@ Exécuter les notebooks dans l'ordre:
 
 Le rapport complet est disponible dans [`reports/fifa_analysis_report.md`](reports/fifa_analysis_report.md)
 
-## 🔮 Développements Futurs
+## Développements Futurs
 
-- [ ] Modèle prédictif de performance
-- [ ] Analyse de l'impact des blessures
-- [ ] Système de recommandation pour le recrutement
-- [ ] Dashboard interactif avec Streamlit/Dash
-- [ ] API pour requêtes personnalisées
+-  Modèle prédictif de performance
+-  Analyse de l'impact des blessures
+-  Système de recommandation pour le recrutement
+-  Dashboard interactif avec Streamlit/Dash
+-  API pour requêtes personnalisées
 
-## 👤 Auteur
+## Auteur
 
 **Jeremie Konan**
 - GitHub: (https://github.com/Softwinnerr)
