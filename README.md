@@ -45,7 +45,7 @@ fifa-players-analysis/
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/[ton-username]/fifa-players-analysis.git
+git clone https://github.com/Softwinnerr/fifa-players-analysis.git
 cd fifa-players-analysis
 ```
 
